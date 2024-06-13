@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jun 13 04:36:53 CEST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0190-0f74-8536-00001f5e8dc8 
+on database directory E:\IntelliJ Idea\IntelliJ IDEA Community Edition 2022.3\projects\Finally\JDBC_example-master\JDBC_example-master\exampleDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@266474c2 
+Loaded from file:/C:/Users/David/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=16.0.1+9-24
+user.dir=E:\IntelliJ Idea\IntelliJ IDEA Community Edition 2022.3\projects\Finally\JDBC_example-master\JDBC_example-master
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
